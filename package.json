@@ -7,6 +7,7 @@
   "build": "vite build",
   "preview": "vite preview"
 }
+
   "dependencies": {
     "@remix-run/dev": "^2.16.5",
     "@remix-run/react": "^2.16.5",
